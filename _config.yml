@@ -16,5 +16,3 @@ rdiscount:
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
 
-#Build settings
-base url:/Dopetrope/
